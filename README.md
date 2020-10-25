@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Live Demo
 
-Open [https://github.com/axmxh/geowox](https://github.com/axmxh/geowox).
+Open [https://axmxh.github.io/geowox/](https://axmxh.github.io/geowox/).
 
 ## Available Scripts
 
